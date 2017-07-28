@@ -1,0 +1,2 @@
+import urllib.parse
+print(urllib.parse.unquote("https://www.amazon.com/gp/search/other/ref=sr_sa_p_4?me=A1GWHXDV5OYG6D&rh=k%3AT-shirt&keywords=T-shirt&pickerToList=brandtextbin&ie=UTF8&qid=1493996112"))
